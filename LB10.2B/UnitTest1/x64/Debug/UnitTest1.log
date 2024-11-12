@@ -1,0 +1,6 @@
+﻿  UnitTest1.cpp
+D:\універ\лаби з алгоритмізації і програмування\LB10.2B\LB10.2B\main.cpp(30,9): warning C4161: #pragma pack(pop...): more pops than pushes
+  (compiling source file '/UnitTest1.cpp')
+  
+     Creating library D:\ун?вер\лаби з алгоритм?зац?ї ? програмування\LB10.2B\x64\Debug\UnitTest1.lib and object D:\ун?вер\лаби з алгоритм?зац?ї ? програмування\LB10.2B\x64\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> D:\універ\лаби з алгоритмізації і програмування\LB10.2B\x64\Debug\UnitTest1.dll
